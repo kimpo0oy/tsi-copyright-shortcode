@@ -10,7 +10,7 @@
  * Plugin Name:   Copyright Shortcode
  * Plugin URI:    https://www.thesavvyinspector.com
  * Description:   Usage: [copyright] will display the whole Copyright, [copyright-only] will display the Copyright without the created by, [created-by] will display the Created by The Savvy Tech without the copyright.
- * Version:       1.3
+ * Version:       1.4
  * Author:        THE SAVVY INSPECTOR | Kevin Steve Maningo
  * Author URI:    https://www.thesavvyinspector.com
  * Text Domain:   copyright-shortcode
