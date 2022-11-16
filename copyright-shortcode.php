@@ -4,7 +4,7 @@
  *
  * @package       COPYRIGHTS
  * @author        Kevin Steve Maningo
- * @version       1.3
+ * @version       1.4
  *
  * @wordpress-plugin
  * Plugin Name:   Copyright Shortcode
@@ -15,6 +15,9 @@
  * Author URI:    https://www.thesavvyinspector.com
  * Text Domain:   copyright-shortcode
  * Domain Path:   /languages
+ * GitHub Plugin URI: kimpo0oy/tsi-copyright-shortcode
+* Primary Branch: main
+* Release Asset: true
  */
 
 // Exit if accessed directly.
